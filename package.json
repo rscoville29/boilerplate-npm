@@ -4,6 +4,7 @@
 	"description": "a boilermaker just to learn from freeCodeCamp",
 	"keywords": ["freecodecamp", "boilermaker", "learning"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
